@@ -28,7 +28,7 @@ client/.next/
 client/.cache/
 client/build/
 client/coverage/
-client/dist/
+# client/dist/
 client/yarn.lock
 client/package-lock.json
 
