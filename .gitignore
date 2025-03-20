@@ -17,7 +17,7 @@ pids/
 # MongoDB
 dump/
 *.lock
-*.json
+# *.json
 *.bson
 *.gz
 
